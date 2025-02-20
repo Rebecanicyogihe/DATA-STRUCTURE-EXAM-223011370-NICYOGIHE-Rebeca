@@ -1,0 +1,5 @@
+This hello world displayed with help of different main.cpp(c++ language) where we use 
+#include <iostream>: include input, output library, this include a library that helps to use cout(to print message to the screen) and cin(to read an integer from standard input)
+using namespace std;: use standard namespace, this makes writing simpler 
+int main(): main function, this is where program starts.
+return 0;: this indicate successfull execution.
