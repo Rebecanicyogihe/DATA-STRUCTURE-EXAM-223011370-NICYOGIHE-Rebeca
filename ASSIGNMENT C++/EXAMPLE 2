@@ -1,3 +1,0 @@
-Using data type and variables about this we cannot use special characters or space and even case sensitive becouse Age
-is different to age, the first one start with upper case and second start with lower case.
-we have to declare their data type for example int, float, bool, double, character.
